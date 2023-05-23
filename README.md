@@ -1,4 +1,4 @@
-Aplicativo Quiz
+Aplicativo Quiz Flutter / Dart - Android e iOS
 
 Este repositório contém o código-fonte de um aplicativo Quiz de perguntas desenvolvido em Flutter/Dart durante o curso de Programador de Sistemas do SENAC Catalão, em 2023. O aplicativo é capaz de consumir uma API em Node.js, a qual armazena as perguntas e usuários em um banco de dados MySQL hospedado na nuvem Azure.
 
