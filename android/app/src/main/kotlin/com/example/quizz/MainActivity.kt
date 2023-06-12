@@ -1,4 +1,4 @@
-package com.example.quizz
+package com.senac.quizz
 
 import io.flutter.embedding.android.FlutterActivity
 
